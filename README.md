@@ -1,2 +1,2 @@
 # recursion
-Recursion example for begiiner
+Recursion example for beginners
